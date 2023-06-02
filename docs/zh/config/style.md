@@ -28,7 +28,7 @@ star: true
 
 ## **网站图标**
 
-favicon 显示在浏览器选项卡中。 默认为 AList Logo
+favicon 显示在浏览器选项卡中。 默认是 `🏠`
 
 
 
